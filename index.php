@@ -5,7 +5,7 @@
 
 	<title>SelectText Plugin</title>
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
-	<script type="text/javascript" src="select.js"></script>
+	<script type="text/javascript" src="jquery.selectText.min.js"></script>
 	<script type="text/javascript">
 		$(function(){
 			$('#arbitrary').click(function(){
