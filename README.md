@@ -1,5 +1,5 @@
 #jQuery text select plugin.
 ##Usage
-	$("#arbitrary).click(function() {
+	$("#arbitrary").click(function() {
 		$(this).selectText();
 	});
